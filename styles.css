@@ -1,0 +1,6 @@
+/* styles.css */
+body {
+    background-image: url('gambar.jfif'); /* Ganti dengan path gambar yang Anda inginkan */
+    background-size: 100% /* Untuk mengisi latar belakang sesuai ukuran layar */
+  }
+  
